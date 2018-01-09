@@ -18,6 +18,7 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.example.owl.tanyadosen.Ctrl.ctrl_volley;
 import com.example.owl.tanyadosen.ServerDB.serverDB;
+import com.example.owl.tanyadosen.classes.*;
 
 import java.util.Queue;
 
@@ -66,30 +67,41 @@ public class LoginActivity extends AppCompatActivity {
     private  void LoginRequest()
     {
         String url = "";
-        url = "http://owlmu.com/bridgedb/login.php?usr="+tx_username.getText()+"&psw="+tx_password.getText()+"";
-        final RequestQueue requestQueue = Volley.newRequestQueue(this);
-        StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
-            @Override
-            public void onResponse(String response) {
-                if(!response.equals(""))
-                {
-                    Toast.makeText(LoginActivity.this, "Username atau Password salah", Toast.LENGTH_SHORT).show();
-                }
-                else
-                {
-                    Intent intent = new Intent(getBaseContext(),MainActivity.class);
-                    startActivity(intent);
-                    finish();
-                }
-                Log.d("login", response);
+        try {
+            url = "http://owlmu.com/bridgedb/login.php?usr="+tx_username.getText()+"&psw="+tx_password.getText()+"";
+            url = url.replaceAll("\\s","%20");
+            final RequestQueue requestQueue = Volley.newRequestQueue(this);
+            StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
+                @Override
+                public void onResponse(String response) {
+                    if(response.equals("false"))
+                    {
+                        Toast.makeText(LoginActivity.this, "Username atau Password salah", Toast.LENGTH_SHORT).show();
+                    }
+                    else if(response.equals("1"))
+                    {
+                        mLogin.setNim(tx_username.getText().toString());
+                        Intent intent = new Intent(getBaseContext(),MainActivity.class);
+                        startActivity(intent);
+                        finish();
+                    }
+                    else {
+                        Toast.makeText(getBaseContext(),"Periksa Koneksi", Toast.LENGTH_LONG);
+                    }
+                    Log.d("login", response);
 
-            }
-        }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                Toast.makeText(LoginActivity.this, "Eroor : "+error.getMessage(), Toast.LENGTH_SHORT).show();
-            }
-        });
-        requestQueue.add(stringRequest);
+                }
+            }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    Toast.makeText(LoginActivity.this, "Eroor : "+error.getMessage(), Toast.LENGTH_SHORT).show();
+                }
+            });
+            requestQueue.add(stringRequest);
+        }catch (Exception e)
+        {
+            Toast.makeText(this, "Error Tidak Ada Koneksi"+ e.getMessage(), Toast.LENGTH_SHORT).show();
+        }
+
     }
 }

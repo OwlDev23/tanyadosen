@@ -1,0 +1,134 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.owl.tanyadosen.ProfileFragment">
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/pswipe_lay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#3e0156"
+                android:orientation="vertical">
+                <Button
+                    android:id="@+id/pbtn_edit"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="right"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/ic_mode_edit"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:src="@drawable/profile" />
+
+                <EditText
+                    android:id="@+id/ptxt_nama"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Nama Lengkap"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/ptxt_nim"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="15.11.9085"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="12sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:orientation="vertical"
+                >
+                <LinearLayout
+                    android:layout_width="290dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="vertical">
+                    <EditText
+                        android:id="@+id/ptxt_email"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:inputType="textEmailAddress"
+                        android:layout_margin="5dp"
+                        android:drawableLeft="@drawable/ic_mail"
+                        android:hint="E-mail"/>
+                    <EditText
+                        android:id="@+id/ptxt_nohp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:layout_gravity="left"
+                        android:drawableLeft="@drawable/ic_contacts"
+                        android:hint="No Hp."/>
+
+                    <EditText
+                        android:id="@+id/ptxt_pass"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:layout_gravity="left"
+                        android:inputType="textPassword"
+                        android:drawableLeft="@drawable/ic_lock"
+                        android:hint="Password"/>
+                    <LinearLayout
+                        android:id="@+id/pllyt_btncon"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_marginTop="20dp">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_gravity="center_horizontal">
+                            <Button
+                                android:id="@+id/pbtn_simpan"
+                                android:layout_width="0dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:layout_margin="10dp"
+                                android:background="@drawable/button_cus"
+                                android:text="Simpan"
+                                android:textColor="@android:color/white"/>
+                            <Button
+                                android:id="@+id/pbtn_cancel"
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="40dp"
+                                android:layout_margin="10dp"
+                                android:background="@drawable/button_cus"
+                                android:text="Cancel"
+                                android:textColor="@android:color/white"/>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+</FrameLayout>

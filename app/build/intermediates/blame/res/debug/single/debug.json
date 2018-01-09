@@ -80,6 +80,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event1.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\event1.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
@@ -100,8 +104,8 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
-        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\fragment_main.xml"
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detaildosen.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\fragment_detaildosen.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -156,6 +160,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -202,6 +210,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mail.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mail.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -304,6 +316,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mode_edit.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mode_edit.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
@@ -400,6 +416,14 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_contacts.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\layout-v21\\notification_template_custom_big.xml"
     },
@@ -472,6 +496,10 @@
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\dosen.jpg"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\anim\\abc_popup_exit.xml"
     },
@@ -522,6 +550,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mail.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -578,6 +610,14 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mail.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -644,6 +684,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
@@ -672,16 +716,20 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\740e7ede85f26ff6043c89a1d4920311\\res\\layout\\notification_template_media_custom.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable\\notification_bg.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
@@ -700,12 +748,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mode_edit.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -736,12 +788,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mode_edit.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\740e7ede85f26ff6043c89a1d4920311\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
@@ -772,16 +828,28 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_edittextv1.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\background_edittextv1.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_contacts.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -852,8 +920,16 @@
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_contacts.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\fragment_about.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -866,6 +942,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
@@ -992,8 +1072,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mode_edit.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_contacts.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1002,6 +1090,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mail.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
@@ -1076,8 +1168,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\about.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_listdosen.xml.flat",
@@ -1156,6 +1256,18 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event2.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\event2.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
@@ -1180,8 +1292,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\fb.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
@@ -1224,6 +1344,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mail.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mail.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1242,6 +1366,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backup.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\backup.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
@@ -1296,6 +1424,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\color\\switch_thumb_material_dark.xml"
     },
@@ -1346,6 +1478,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colors.xml.flat",
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\colors.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\profile.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
@@ -1416,6 +1552,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -1452,6 +1592,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contacts.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
@@ -1468,6 +1612,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1480,8 +1628,16 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_contacts.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_contacts.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1526,6 +1682,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mode_edit.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
@@ -1600,6 +1760,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f0fd6a00d535cb12d8459af182204526\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_contacts.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_contacts.xml"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1632,6 +1796,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event3.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\event3.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -1644,6 +1812,10 @@
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mode_edit.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mode_edit.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nonaktif.png.flat",
         "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\nonaktif.png"
     },
@@ -1654,6 +1826,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ig.png.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\ig.png"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1674,6 +1850,10 @@
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Owl\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\98f31a481769d697178ca0e7abefa3ad\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_cus.xml.flat",
+        "source": "E:\\Google Drive\\Android\\TanyaDosen\\app\\src\\main\\res\\drawable\\button_cus.xml"
     },
     {
         "merged": "E:\\Google Drive\\Android\\TanyaDosen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",

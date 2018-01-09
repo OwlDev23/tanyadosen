@@ -8,9 +8,13 @@
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/swipe_refresh"
         android:layout_width="match_parent"
+        android:background="@android:color/white"
+        android:padding="5dp"
         android:layout_height="match_parent">
+
         <ListView
             android:id="@+id/listviewdosen"
+            style="@style/Widget.AppCompat.ListView.DropDown"
             android:layout_width="match_parent"
             android:layout_height="match_parent"></ListView>
     </android.support.v4.widget.SwipeRefreshLayout>

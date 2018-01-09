@@ -7,9 +7,7 @@ package com.example.owl.tanyadosen.classes;
 public class mlvDosen {
     private String nik, nama, jurusan, matakuliah;
 
-    public String getNik() {
-        return nik;
-    }
+    public String getNik() {return nik;}
 
     public void setNik(String nik) {
         this.nik = nik;

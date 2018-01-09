@@ -91,29 +91,39 @@ public class RegisterActivity extends AppCompatActivity {
     {
         if(checking())
         {
-            String url = "http://owlmu.com/bridgedb/register.php?nim="+txnim.getText()+"&psw="+txpassword.getText()+"&email="+txemail.getText()+"";
-            RequestQueue requestQueue = Volley.newRequestQueue(this);
-            StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
-                @Override
-                public void onResponse(String response) {
-                    if(!response.equals(""))
-                    {
-                        Toast.makeText(RegisterActivity.this, "Mohon diisi yang benar", Toast.LENGTH_SHORT).show();
+            try {
+                String url = "http://owlmu.com/bridgedb/register.php?nim="+txnim.getText()+"&psw="+txpassword.getText()+"&email="+txemail.getText()+"";
+                url = url.replaceAll("\\s","%20");
+                RequestQueue requestQueue = Volley.newRequestQueue(this);
+                StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
+                    @Override
+                    public void onResponse(String response) {
+                        if(response.equals("false"))
+                        {
+                            Toast.makeText(RegisterActivity.this, "Mohon diisi yang benar", Toast.LENGTH_SHORT).show();
+                        }
+                        else if(response.equals("1"))
+                        {
+                            Toast.makeText(RegisterActivity.this, "Register success", Toast.LENGTH_SHORT).show();
+                            finish();
+                        }
+                        else {
+                            Toast.makeText(RegisterActivity.this, "Periksa Koneksi", Toast.LENGTH_SHORT).show();
+                        }
+                        Log.d("Register", response);
                     }
-                    else
-                    {
-                        Toast.makeText(RegisterActivity.this, "Register success", Toast.LENGTH_SHORT).show();
-                        finish();
+                }, new Response.ErrorListener() {
+                    @Override
+                    public void onErrorResponse(VolleyError error) {
+                        Toast.makeText(RegisterActivity.this, "Register procces Error : "+error.getMessage(), Toast.LENGTH_SHORT).show();
                     }
-                    Log.d("Register", response);
-                }
-            }, new Response.ErrorListener() {
-                @Override
-                public void onErrorResponse(VolleyError error) {
-                    Toast.makeText(RegisterActivity.this, "Register procces Error : "+error.getMessage(), Toast.LENGTH_SHORT).show();
-                }
-            });
-            requestQueue.add(stringRequest);
+                });
+                requestQueue.add(stringRequest);
+            }catch (Exception e)
+            {
+                Toast.makeText(this, "Tidak ada Sambungan", Toast.LENGTH_SHORT).show();
+            }
+
         }
 
     }

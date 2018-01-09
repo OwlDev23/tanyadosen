@@ -33,8 +33,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         imgTanyados = findViewById(R.id.macimg_tanyadosen);
         imgAbout = findViewById(R.id.macimg_about);
         imgPengaturan = findViewById(R.id.macimg_pengaturan);
-
+        imgAbout.setOnClickListener(this);
         imgDosen.setOnClickListener(this);
+        imgProfile.setOnClickListener(this);
+        imgPengaturan.setOnClickListener(this);
     }
 
     @Override
@@ -45,6 +47,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.macimg_dosen :
                 i = new Intent(getBaseContext(),SecondActivity.class);
                 i.putExtra(tagmsg,"dosen");
+                startActivity(i);
+                break;
+            case R.id.macimg_profile:
+                i = new Intent(getBaseContext(), SecondActivity.class);
+                i.putExtra(tagmsg, "profile");
+                startActivity(i);
+                break;
+            case R.id.macimg_pengaturan:
+                i = new Intent(getBaseContext(), SecondActivity.class);
+                i.putExtra(tagmsg, "pengaturan");
+                startActivity(i);
+                break;
+            case R.id.macimg_about:
+                i = new Intent(getBaseContext(), SecondActivity.class);
+                i.putExtra(tagmsg, "about");
                 startActivity(i);
                 break;
         }

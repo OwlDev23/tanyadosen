@@ -37,6 +37,22 @@ public class SecondActivity extends AppCompatActivity {
                 fragmentTransaction.commit();
                 setTitle("List Dosen");
                 break;
+            case  "profile" :
+                ProfileFragment profileFragment = new ProfileFragment();
+                fragmentTransaction.add(R.id.containerfragment,profileFragment);
+                fragmentTransaction.commit();
+                setTitle("Profile");
+                break;
+            case "pengaturan":
+                SettingFragment settingFragment = new SettingFragment();
+                fragmentTransaction.add(R.id.containerfragment,settingFragment).commit();
+                setTitle("Setting");
+                break;
+            case "about":
+                AboutFragment aboutFragment = new AboutFragment();
+                fragmentTransaction.add(R.id.containerfragment, aboutFragment).commit();
+                setTitle("About");
+                break;
         }
     }
 }
